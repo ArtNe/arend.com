@@ -1,2 +1,1 @@
-# arend.com
-hostel
+#QA automation
