@@ -4,8 +4,8 @@ returns the elements of the input-array in a sorted manner.
 */
 sortme = function( names )
     {
-    var names = ();
-    names = int(input());
+    var names : [];
+    names = int(oninput());
     console.log(names);
     names.sort();
     }
